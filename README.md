@@ -28,11 +28,13 @@ The main objectives of this project are:
 
 ## 🛠️ Tools & Technologies
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Cleaning & Transformation
-- Data Visualization
+- Google Sheets — Data cleaning and preparation
+- Python — Data analysis and exploration
+- PostgreSQL — Database management
+- SQL — Data querying and analysis
+- Microsoft Power BI — Dashboard development and visualization
+- Power Query — Data transformation
+- DAX — Calculations and measures
 
 ---
 
@@ -135,15 +137,20 @@ Some important observations from the analysis include:
 
 This project demonstrates practical skills in:
 
-- Data Analysis
+## 💡 Skills Demonstrated
+
 - Data Cleaning
+- Exploratory Data Analysis
+- Python
+- SQL
+- PostgreSQL
+- Google Sheets
 - Power Query
 - DAX
+- Power BI
 - Data Visualization
 - Dashboard Design
-- Business Intelligence
 - Data Storytelling
-- Microsoft Power BI
 
 ---
 
