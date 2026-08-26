@@ -120,9 +120,14 @@ Some important observations from the analysis include:
 ---
 
 ## 📸 Dashboard Preview
-Netflix Content Analysis
 
-Content Analysis
+### Netflix Content Analysis
+
+![Netflix Content Analysis](./screenshots/Netflix_Content_Analysis.png)
+
+### Content Analysis
+
+![Netflix Content Analysis - Content Analysis](./screenshots/Netflix_Content_Analysis_2.png)
 
 ---
 
